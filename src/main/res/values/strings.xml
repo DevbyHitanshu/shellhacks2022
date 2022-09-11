@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Accident Help</string>
+    <string name="api_key">AIzaSyB5aCFsF3KAChwVUtNGzxnsRbp3lq_S078</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
